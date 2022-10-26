@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787456416643",
+    "project_id": "expofirebase-621d3",
+    "storage_bucket": "expofirebase-621d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787456416643:android:f423acd8f6515dd80874b6",
+        "android_client_info": {
+          "package_name": "com.example.expo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787456416643-8edqjsvrrct046a62nq6d7j30hjhbtql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpw_4YcDqDFbCoMeduTrXW-i00WsgrFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787456416643-8edqjsvrrct046a62nq6d7j30hjhbtql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
